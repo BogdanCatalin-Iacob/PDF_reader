@@ -26,7 +26,8 @@ def main():
     '''
     extracted_text: list[str] = extract_text_from_pdf(
         'assets/Free_Test_Data_100KB_PDF.pdf')
-    print(extracted_text)
+    for page in extracted_text:
+        print(page)
 
 
 if __name__ == '__main__':
