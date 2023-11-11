@@ -9,3 +9,6 @@ git push -u origin main
 
 ## Technologies
 -   PyPDF module make it easier too extract text from pdf files
+
+## Assets
+-   PDF file is a dummy test file taken from [Free Test Data](https://freetestdata.com/document-files/pdf)
