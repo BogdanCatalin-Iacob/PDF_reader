@@ -1,5 +1,8 @@
 # PDF Reader
 
+## Description
+This program will read a pdf file and display in console the number of pages of the pdf file, the text of each page and the top 5 most common words met in the pdf file.
+
 ## Technologies
 -   PyPDF module make it easier too extract text from pdf files
 
