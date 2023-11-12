@@ -47,3 +47,14 @@ This gives you your own version to make changes without affecting the original r
 1. Log in to GitHub and locate [GitHub Repository](https://github.com/BogdanCatalin-Iacob/PDF_reader)
 2. Locate the `Fork` button at the top right of the GitHub page
 3. Click this to see the `Create a new fork` page. Click `Create fork` and you should now have a copy of the original repository in your GitHub account.
+
+### Run locally
+To run this project on your computer:
+1. Open a terminal
+2. Navigate to the project directory
+3. Create a virtual environment with command `python -m venv <name of virtual environment>`
+4. Activate the virtual environment
+    * on windows `source <name of virtual environment>/Scripts/activate`
+    * on mac `source <name of virtual environment>/bin/activate`
+5. Install requirements `pip3 install -r requirements.txt`
+6. Type: `python main.py` to run the program.
